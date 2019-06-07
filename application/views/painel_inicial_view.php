@@ -1,0 +1,1 @@
+Tela inicial. Futuramente terá gráficos.
